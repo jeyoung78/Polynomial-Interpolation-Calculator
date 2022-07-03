@@ -1,26 +1,10 @@
-/************************************************************
- * You can use this file to test if your code is working
- * properly by designing your own test case and test code.
- * 
- * We will only be providing test cases for Lab 1.1.
- * 
- * To grade, we will compile your code and run it against 
- * our own test suite. You should design your own tests in 
- * this file to ensure that your code does what you expect.
- ************************************************************/
-
 #include <iostream>
 #include <string>
 
-// Uncomment the .h files when you're ready to start testing
+
 #include "sequential-list.h"
-//#include "doubly-linked-list.h"
-//#include "polynomial.h"
-
-// Once uncommented, you will need to modify the CMakeLists.txt
-// to add the .cpp file to be able to compile again.
-
-// Note: This may require you to "rebuild" or "Reload CMake Project"
+#include "doubly-linked-list.h"
+#include "polynomial.h"
 
 using namespace std;
 
